@@ -1,0 +1,6 @@
+{
+  "name": "Hotel O Avondale | Luxury Stays in Jaipur",
+  "description": "Luxury boutique hotel in Sitapura near Jaipur International Airport with real-time room booking, executive suites, and bespoke hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
